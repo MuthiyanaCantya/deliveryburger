@@ -1,14 +1,7 @@
 import java.util.Scanner;
 
-/**
- *
- * @author Muthiyana Cantya P
- */
 public class DeliveryBurger {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) throws Exception {
 
         Scanner input1 = new Scanner(System.in);
